@@ -1,6 +1,12 @@
 body {
   background-color: #f4dc26;
-  position: relative;
+
+}
+.face {
+    position: relative;
+    width: 700px;
+    height: auto;
+    margin: auto;
 }
 .eye {
   width: 100px;
