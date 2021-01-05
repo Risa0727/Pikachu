@@ -1,1 +1,2 @@
 # Pikachu
+Only HTML/CSS
